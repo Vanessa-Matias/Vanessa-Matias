@@ -14,22 +14,21 @@
 
   - :blue_book: Atualmente estou cursando o 2° período de ADS na Faculdade Senac de Pernambuco.
 
-  - :mag: Estou procurando minha primeira oportunidade de estágio na área de TI. Meu desejo é obter conhecimentos em desenvolvimento Full-Stack.
+  - :mag: Estou procurando minha primeira oportunidade de estágio na área de TI. 
 </p>
 
 <!-- Suspenso -->
 <details>
   <summary> Mais Sobre Mim </summary>
 
-   :computer: Tenho 31 anos, e moro em Recife-PE. Sou aluna do programa Embarque Digital, do Porto Digital. Possuo conhecimentos básicos em Python, HTML, CSS e SQL. Estou sempre em aprendizado, buscando aprimorar minhas habilidades através de cursos e projetos, tanto acadêmicos, como pessoais. 
+   :computer: Tenho 31 anos, e moro em Recife-PE. Sou aluna do programa Embarque Digital, do Porto Digital. Possuo conhecimentos básicos em Python, HTML, CSS e SQL. Estou sempre buscando aprimorar minhas habilidades através de cursos e projetos, tanto acadêmicos, como pessoais. 
    
-   :white_check_mark: Participei do Rec'n'play 2024 com um projeto inovador em parceria com o SEBRAE, que foi o <a href="https://projeto-chico.vercel.app/" target="_blank" rel="external">Projeto Chico</a>, onde desenvolvi habilidades em ideação e planejamento no Design Sprint, além de fazer parte da equipe de designe e front-end.
+   :white_check_mark: Participei do Rec'n'play 2024 com um projeto em parceria com o SEBRAE, que foi o <a href="https://projeto-chico.vercel.app/" target="_blank" rel="external">Projeto Chico</a>, onde desenvolvi habilidades em ideação e planejamento no Design Sprint, além de fazer parte da equipe de designe e front-end.
    
-   :two_hearts: Nos meus momentos de descanso, troco as linhas de código pela leitura, seja de bom livro, ou uma HQ. Gosto de ver animes, boas series e de jogar. Um bom café é sempre me acompanha! 
+   :two_hearts: Nos meus momentos de descanso, troco as linhas de código pela leitura, seja de um bom livro, ou uma HQ. Gosto de ver animes, boas series e de jogar. Um bom café sempre me acompanha! 
 </details>
 
 <!-- Redes sociais -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vanessamatias16.s@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanessam.dev2/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamatiasdev/)
 
