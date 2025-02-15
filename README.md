@@ -25,7 +25,7 @@
    
    :white_check_mark: Participei do Rec'n'play 2024 com um projeto em parceria com o SEBRAE, que foi o <a href="https://projeto-chico.vercel.app/" target="_blank" rel="external">Projeto Chico</a>, onde desenvolvi habilidades em ideação e planejamento no Design Sprint, além de fazer parte da equipe de designe e front-end.
    
-   :two_hearts: Nos meus momentos de descanso, troco as linhas de código pela leitura, seja de um bom livro, ou uma HQ. Gosto de ver animes, boas series e de jogar. Um bom café sempre me acompanha! 
+   :two_hearts: Nos meus momentos de descanso, troco as linhas de código pela leitura, seja de um bom livro, ou uma HQ. Gosto de ver animes, boas séries e de jogar. Um bom café sempre me acompanha! 
 </details>
 
 <!-- Redes sociais -->
@@ -33,8 +33,20 @@
    <a href = "mailto:vanessamatias16.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/vanessamatiasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessa-matias&show_icons=true&theme=tokyonight)
+<!-- GithubStats e estatisticas-->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanessa-matias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-matias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="155" alt="languages graph"/>
+</div>
+
+<!-- Portfolio -->
+## Projetos
+- [CHICO](https://github.com/Vanessa-Matias/ProjetoCH1C0---Senac)
+- [Pedra, Papel e Tesoura]()
+- [Gerador de senhas](https://github.com/Vanessa-Matias/gerador.senha)
+- [INOVAPED](https://www.figma.com/proto/3uNt8paY2WVpaFspci2xFw/Telas-prot%C3%B3tipo-inovaped?node-id=1-2&p=f&t=cLNIRT02CV1EDLe8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2)
+  
+
 
 <!-- GIF -->
 <p align="left">
@@ -42,14 +54,24 @@
 </p>
 
 ## 🔥 Habilidades
-<!-- Linguagem de Programação -->
+
+### Linguagens
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+### Ferramentas e IDEs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+</div>
+
+
