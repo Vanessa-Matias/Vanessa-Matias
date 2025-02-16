@@ -40,7 +40,7 @@
 </div>
 
 <!-- Portfolio -->
-## Projetos
+## 📌Projetos
 - [CHICO](https://github.com/Vanessa-Matias/ProjetoCH1C0---Senac)
 - [Pedra, Papel e Tesoura]()
 - [Gerador de senhas](https://github.com/Vanessa-Matias/gerador.senha)
