@@ -44,7 +44,7 @@
 - [CHICO](https://github.com/Vanessa-Matias/ProjetoCH1C0---Senac)
 - [Pedra, Papel e Tesoura]()
 - [Gerador de senhas](https://github.com/Vanessa-Matias/gerador.senha)
-- [INOVAPED](https://www.figma.com/proto/3uNt8paY2WVpaFspci2xFw/Telas-prot%C3%B3tipo-inovaped?node-id=1-2&p=f&t=cLNIRT02CV1EDLe8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2)
+- [INOVAPED](https://github.com/Vanessa-Matias/inovaped-app/tree/main)
   
 
 
