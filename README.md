@@ -42,7 +42,7 @@
 <!-- Portfolio -->
 ## 📌Projetos
 - [CHICO](https://github.com/Vanessa-Matias/ProjetoCH1C0---Senac)
-- [Pedra, Papel e Tesoura]()
+- [Pedra, Papel e Tesoura](https://github.com/Vanessa-Matias/Pedra-papel-tesoura)
 - [Gerador de senhas](https://github.com/Vanessa-Matias/gerador.senha)
 - [INOVAPED](https://github.com/Vanessa-Matias/inovaped-app/tree/main)
   
