@@ -13,15 +13,13 @@
   Oi :wave:, eu sou Vanessa! Sou uma estudante de Análise e Desenvolvimento de Sistemas.
 
   - :blue_book: Atualmente estou cursando o 2° período de ADS na Faculdade Senac de Pernambuco.
-
-  - :mag: Estou procurando minha primeira oportunidade de estágio na área de TI. 
 </p>
 
 <!-- Suspenso -->
 <details>
   <summary> Mais Sobre Mim </summary>
 
-   :computer: Tenho 31 anos, e moro em Recife-PE. Sou aluna do programa Embarque Digital, do Porto Digital. Possuo conhecimentos básicos em Python, HTML, CSS e SQL. Estou sempre buscando aprimorar minhas habilidades através de cursos e projetos, tanto acadêmicos, como pessoais. 
+   :computer: Sou aluna do programa Embarque Digital, do Porto Digital. Possuo conhecimentos básicos em Python, HTML, CSS e SQL. Estou sempre buscando aprimorar minhas habilidades através de cursos e projetos, tanto acadêmicos, como pessoais. 
    
    :white_check_mark: Participei do Rec'n'play 2024 com um projeto em parceria com o SEBRAE, que foi o <a href="https://projeto-chico.vercel.app/" target="_blank" rel="external">Projeto Chico</a>, onde desenvolvi habilidades em ideação e planejamento no Design Sprint, além de fazer parte da equipe de designe e front-end.
    
