@@ -19,9 +19,9 @@
 <details>
   <summary> Mais Sobre Mim </summary>
 
-   :computer: Sou aluna do programa Embarque Digital, do Porto Digital. Possuo conhecimentos básicos em Python, HTML, CSS e SQL. Estou sempre buscando aprimorar minhas habilidades através de cursos e projetos, tanto acadêmicos, como pessoais. 
+   :computer: Sou aluna do programa Embarque Digital, do Porto Digital. Possuo conhecimentos básicos em Python, HTML, CSS e JavaScript. Estou sempre buscando aprimorar minhas habilidades através de cursos e projetos, tanto acadêmicos, como pessoais. 
    
-   :white_check_mark: Participei do Rec'n'play 2024 com um projeto em parceria com o SEBRAE, que foi o <a href="https://projeto-chico.vercel.app/" target="_blank" rel="external">Projeto Chico</a>, onde desenvolvi habilidades em ideação e planejamento no Design Sprint, além de fazer parte da equipe de designe e front-end.
+   :white_check_mark: Participei do Rec'n'play 2024 com um projeto em parceria com o SEBRAE, que foi o <a href="https://projeto-chico.vercel.app/" target="_blank" rel="external">Projeto Chico</a>, onde desenvolvi habilidades em ideação e planejamento no Design Sprint, além de fazer parte da equipe de designe e front-end. Atualmente ainda continuo participando do desenvolvimento do projeto.
    
    :two_hearts: Nos meus momentos de descanso, troco as linhas de código pela leitura, seja de um bom livro, ou uma HQ. Gosto de ver animes, boas séries e de jogar. Um bom café sempre me acompanha! 
 </details>
