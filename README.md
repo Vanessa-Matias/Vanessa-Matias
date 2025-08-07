@@ -12,16 +12,16 @@
 <p>
   Oi :wave:, eu sou Vanessa! Sou uma estudante de Análise e Desenvolvimento de Sistemas.
 
-  - :blue_book: Atualmente estou cursando o 2° período de ADS na Faculdade Senac de Pernambuco.
+  - :blue_book: Atualmente estou cursando o 3° período de ADS na Faculdade Senac de Pernambuco.
 </p>
 
 <!-- Suspenso -->
 <details>
   <summary> Mais Sobre Mim </summary>
 
-   :computer: Sou aluna do programa Embarque Digital, do Porto Digital. Tenho conhecimentos básicos em Python, HTML, CSS e JavaScript. Estou sempre buscando aprimorar minhas habilidades através de cursos e projetos, tanto acadêmicos, como pessoais. 
+   :computer: Sou aluna do programa Embarque Digital, do Porto Digital. Tenho me dedicado ao estudo profundo de Python enquanto exploro suas diversas aplicações na área de dados - desde Análise até Ciência e Engenharia de Dados, buscando identificar onde posso gerar maior impacto
    
-   :white_check_mark: Participei do Rec'n'play 2024 com um projeto em parceria com o SEBRAE, que foi o <a href="https://projeto-chico.vercel.app/" target="_blank" rel="external">Projeto Chico</a>, onde desenvolvi habilidades em ideação e planejamento no Design Sprint, além de fazer parte da equipe de designe e front-end. Atualmente ainda continuo participando do desenvolvimento do projeto.
+   :white_check_mark: Atualmente, integro a equipe do Projeto Chico no Clima , projeto que participa do edital Jovens no Clima 2025, promovido pela Prefeitura do Recife, sendo um dos 18 projetos selecionados entre 51 inscritos, ficando empatado entre os três primeiros classificados e que também está entre os selecionados para representar o Recife na COP30, a Conferência das Nações Unidas sobre Mudança do Clima, que será realizada em Belém
    
    :two_hearts: Nos meus momentos de descanso, troco as linhas de código pela leitura, seja de um bom livro, ou uma HQ. Gosto de ver animes, boas séries e de jogar. Um bom café sempre me acompanha! 
 </details>
