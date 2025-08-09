@@ -19,9 +19,9 @@
 <details>
   <summary> Mais Sobre Mim </summary>
 
-   :computer: Sou aluna do programa Embarque Digital, do Porto Digital. Tenho me dedicado ao estudo profundo de Python enquanto exploro suas diversas aplicações na área de dados - desde Análise até Ciência e Engenharia de Dados, buscando identificar onde posso gerar maior impacto
+   :computer: Sou desenvolvedora em formação, cursando o 3º semestre de Análise e Desenvolvimento de Sistemas no Senac Pernambuco pelo Programa Embarque Digital, do Porto Digital. Tenho direcionado minha trajetória para a área de dados, aprofundando conhecimentos em Python com bibliotecas como NumPy, Pandas e Matplotlib, além de linguagem R, Excel e Power BI. Em breve, iniciarei uma residência acadêmica em robótica, explorando novas aplicações tecnológicas e ampliando meu repertório técnico.
    
-   :white_check_mark: Atualmente, integro a equipe do Projeto Chico no Clima , projeto que participa do edital Jovens no Clima 2025, promovido pela Prefeitura do Recife, sendo um dos 18 projetos selecionados entre 51 inscritos, ficando empatado entre os três primeiros classificados e que também está entre os selecionados para representar o Recife na COP30, a Conferência das Nações Unidas sobre Mudança do Clima, que será realizada em Belém
+   :white_check_mark: Atualmente faço parte da equipe do Projeto Chico no Clima, que conquistou o 1º lugar (empate triplo) no edital Jovens no Clima 2025, promovido pela Prefeitura do Recife, e foi selecionado para representar a cidade na COP30, em Belém. Essa experiência fortaleceu minhas habilidades em comunicação digital, gestão de conteúdo e colaboração em causas de impacto social.
    
    :two_hearts: Nos meus momentos de descanso, troco as linhas de código pela leitura, seja de um bom livro, ou uma HQ. Gosto de ver animes, boas séries e de jogar. Um bom café sempre me acompanha! 
 </details>
@@ -41,7 +41,7 @@
 - [CHICO](https://github.com/Vanessa-Matias/ProjetoCH1C0---Senac)
 - [Pedra, Papel e Tesoura](https://github.com/Vanessa-Matias/Pedra-papel-tesoura)
 - [Gerador de senhas](https://github.com/Vanessa-Matias/gerador.senha)
-- [INOVAPED](https://github.com/Vanessa-Matias/inovaped-app/tree/main)
+- [Power BI]([https://github.com/Vanessa-Matias/inovaped-app/tree/main](https://github.com/Vanessa-Matias/powerbi-chocolate-store))
   
 
 
