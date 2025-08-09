@@ -19,7 +19,7 @@
 <details>
   <summary> Mais Sobre Mim </summary>
 
-   :computer: Sou desenvolvedora em formação, cursando o 3º semestre de Análise e Desenvolvimento de Sistemas no Senac Pernambuco pelo Programa Embarque Digital, do Porto Digital. Tenho direcionado minha trajetória para a área de dados, aprofundando conhecimentos em Python com bibliotecas como NumPy, Pandas e Matplotlib, além de linguagem R, Excel e Power BI. Em breve, iniciarei uma residência acadêmica em robótica, explorando novas aplicações tecnológicas e ampliando meu repertório técnico.
+   :computer: Faço parte do programa Embarque Digital, do Porto Digital. Tenho direcionado minha trajetória para a área de dados, aprofundando conhecimentos em Python com bibliotecas como NumPy, Pandas e Matplotlib, além de linguagem R, Excel e Power BI. Em breve, iniciarei uma residência acadêmica em robótica, explorando novas aplicações tecnológicas e ampliando meu repertório técnico.
    
    :white_check_mark: Atualmente faço parte da equipe do Projeto Chico no Clima, que conquistou o 1º lugar (empate triplo) no edital Jovens no Clima 2025, promovido pela Prefeitura do Recife, e foi selecionado para representar a cidade na COP30, em Belém. Essa experiência fortaleceu minhas habilidades em comunicação digital, gestão de conteúdo e colaboração em causas de impacto social.
    
@@ -41,7 +41,7 @@
 - [CHICO](https://github.com/Vanessa-Matias/ProjetoCH1C0---Senac)
 - [Pedra, Papel e Tesoura](https://github.com/Vanessa-Matias/Pedra-papel-tesoura)
 - [Gerador de senhas](https://github.com/Vanessa-Matias/gerador.senha)
-- [Power BI]([https://github.com/Vanessa-Matias/inovaped-app/tree/main](https://github.com/Vanessa-Matias/powerbi-chocolate-store))
+- [Power BI](https://github.com/Vanessa-Matias/powerbi-chocolate-store)
   
 
 
