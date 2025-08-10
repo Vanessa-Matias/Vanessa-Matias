@@ -38,7 +38,7 @@
 
 <!-- Portfolio -->
 ## 📌Projetos
-- [CHICO](https://github.com/Vanessa-Matias/ProjetoCH1C0---Senac)
+- [Análise de dados salarial](https://github.com/Vanessa-Matias/analise-salarial-dados-python)
 - [Pedra, Papel e Tesoura](https://github.com/Vanessa-Matias/Pedra-papel-tesoura)
 - [Gerador de senhas](https://github.com/Vanessa-Matias/gerador.senha)
 - [Power BI](https://github.com/Vanessa-Matias/powerbi-chocolate-store)
@@ -56,12 +56,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  </div>
 
 ### Ferramentas e IDEs
 <div align="left">
